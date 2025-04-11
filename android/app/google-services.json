@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818423604667",
+    "project_id": "bluxkart-95e53",
+    "storage_bucket": "bluxkart-95e53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818423604667:android:8e0d718750c38253db509e",
+        "android_client_info": {
+          "package_name": "com.example.bluxkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnLVLqNeY3lR3eP9TOtCrohrpzrk0i3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818423604667:android:5cd5d742c8f19ad3db509e",
+        "android_client_info": {
+          "package_name": "com.example.bluxkart_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnLVLqNeY3lR3eP9TOtCrohrpzrk0i3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

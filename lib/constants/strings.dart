@@ -1,0 +1,18 @@
+const login = "Login",
+    email = "Email",
+emailHint = "Bluxkart@gmail.com",
+    password = "Password",
+    forgotPassword = "Forgot Password",
+    signUp = "Sign Up",
+    name = "Name",
+    passwordConfirm = "Confirm Password",
+orderid = "Order Id",
+order = "Orders",
+products = "Products",
+settings = "Settings",
+dashboard = "Dashboard",
+    passwordHint = "********",
+edit = "Edit",
+remove = "Remove",
+featured = "Featured";
+
