@@ -1,9 +1,5 @@
 
----
 
-### **README for BluxKart Seller App**
-
-**File Name:** `README.md`
 
 ```markdown
 # BluxKart Seller App
