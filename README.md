@@ -1,7 +1,7 @@
 
 ---
 
-### 2. **README for BluxKart Seller App**
+### **README for BluxKart Seller App**
 
 **File Name:** `README.md`
 
