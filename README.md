@@ -1,16 +1,33 @@
-# bluxkart_seller
 
-A new Flutter project.
+---
 
-## Getting Started
+### 2. **README for BluxKart Seller App**
 
-This project is a starting point for a Flutter application.
+**File Name:** `README.md`
 
-A few resources to get you started if this is your first Flutter project:
+```markdown
+# BluxKart Seller App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Welcome to the **BluxKart Seller App**, designed for sellers to manage their products, track orders, and handle inventory efficiently. This app provides a complete dashboard for sellers to list and manage their products and orders.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features:
+- List new products with descriptions, prices, and images
+- Manage existing product inventory
+- View and manage customer orders
+- Track sales and revenue
+
+## Technologies Used:
+- **Flutter** for frontend development
+- **Firebase** for authentication 
+- **Firestore** for database (products, orders, seller data)
+- **Firebase Storage** for image storage
+
+
+### Prerequisites
+Before you begin, ensure you have the following installed:
+- **Flutter** (Make sure you have Flutter SDK installed and configured)
+- **Dart** (Comes with Flutter)
+- **Android Studio** or **Visual Studio Code** (For development)
+
+
+
